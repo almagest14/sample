@@ -1,1 +1,2 @@
 This is for testing only
+This line is from branch2
