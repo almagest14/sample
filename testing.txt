@@ -1,3 +1,4 @@
 This Line is from master
 This is for testing only
 This line is from branch2
+This line is from the third commit on master
